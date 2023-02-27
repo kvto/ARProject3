@@ -56,10 +56,9 @@ An application that is in charge of taking a specific image through Images Targe
 </p>
 
 > 4.- And finally, the respective Target Images will appear on the initial screen with the previously mentioned models
-| <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelheart.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelcarrusel.png" width="285px" align="center"> 
-|---|---|
 
-
+   | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelheart.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelcarta.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelcarrusel.png" width="285px" align="center"> 
+|---|---|---|
 
   ## More info about me: 
 <div id="badges" >
