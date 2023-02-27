@@ -56,3 +56,37 @@ An application that is in charge of taking a specific image through Images Targe
 </p>
 
 > 4.- And finally, the respective Target Images will appear on the initial screen with the previously mentioned models
+| <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelheart.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelcarrusel.png" width="285px" align="center"> 
+|---|---|
+
+
+
+  ## More info about me: 
+<div id="badges" >
+Ing. Kevin J. Montero Zea 
+</div>
+<div id="badges" >
+CE: 004712881 🆔
+</div>
+<div id="badges" >
++51-913-695-382 📱
+</div>
+<div id="badges" >
+<a href="https://www.linkedin.com/in/kevin913montero/">
+    LinkedIn 👨‍🦰
+  </a>
+</div>
+<div id="badges" >
+<a href="https://portfoliokjmz.netlify.app/">
+    Portfolio 💼
+  </a>
+</div>
+
+
+<p align="center">
+<img height="50" src="Imagenes/logo2 (2).png" />
+<img height="50" src="Imagenes/logo3.png" />
+<img height="50" src="Imagenes/Sin título.png" />
+ <img height="50" src="Imagenes/logo solo.png" />
+</p>
+
