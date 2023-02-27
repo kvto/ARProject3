@@ -6,4 +6,11 @@ An application that is in charge of taking a specific image through Images Targe
   ***<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity logo" width="20"> Unity version: 2021.3.18f1*** <br>
   ***<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unityhub logo" width="20">UnityHub version: 3.4.1*** <br>
   ***<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" alt="android studio logo" width="20">Android Studio version: 4.0*** <br>
+  
 ##  ***Image Target: 🖼*** <br>
+| <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/heart.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/ovni.png" width="285px" align="center"> 
+|---|---|
+
+## ***Model 3D: 🗿*** <br>
+   | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelheart.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelcarta.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject3/blob/main/Imagenes/modelcarrusel.png" width="285px" align="center"> 
+|---|---|---|
